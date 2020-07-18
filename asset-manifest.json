@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-Redux-Saga/static/js/main.aac76584.chunk.js",
+    "main.js.map": "/React-Redux-Saga/static/js/main.aac76584.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Saga/static/js/runtime-main.0da17d29.js",
+    "runtime-main.js.map": "/React-Redux-Saga/static/js/runtime-main.0da17d29.js.map",
+    "static/js/2.d35504b8.chunk.js": "/React-Redux-Saga/static/js/2.d35504b8.chunk.js",
+    "static/js/2.d35504b8.chunk.js.map": "/React-Redux-Saga/static/js/2.d35504b8.chunk.js.map",
+    "index.html": "/React-Redux-Saga/index.html",
+    "precache-manifest.e107f050bbf05dafd7b6e5566f3571b7.js": "/React-Redux-Saga/precache-manifest.e107f050bbf05dafd7b6e5566f3571b7.js",
+    "service-worker.js": "/React-Redux-Saga/service-worker.js",
+    "static/js/2.d35504b8.chunk.js.LICENSE.txt": "/React-Redux-Saga/static/js/2.d35504b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da17d29.js",
+    "static/js/2.d35504b8.chunk.js",
+    "static/js/main.aac76584.chunk.js"
+  ]
+}
